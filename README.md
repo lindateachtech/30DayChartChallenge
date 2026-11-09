@@ -7,21 +7,21 @@ Mis gráficos para el [#30DayChartChallenge](https://github.com/30DayChartChalle
 
 ```
 30DayChartChallenge/
-├── 2026/      temas de la edición 2026 asistidos con IA
-└── R/         funciones comunes
+├── 2026/              temas de la edición 2026 asistidos con IA
+├── plantillas/dia/    plantilla que se copia para cada día nuevo
+└── R/                 funciones comunes
 ```
 
 Cada día tiene su propia carpeta, por ejemplo `2026/01-part-to-whole/`, con:
 
 - un `README.md` que explica la pregunta, los datos, el gráfico y cómo leerlo, 
-- el `script.R` para reproducirlo, 
-- un `prompts.md` con el proceso de trabajo con IA y 
+- el `script-viz.R` para reproducirlo, 
 - la imagen final.
 
 
 ## Cómo trabajo
 
-Construyo los gráficos con ayuda de IA y lo cuento abiertamente. La IA me acelera el código, pero la pregunta, la elección del gráfico, la historia, las anotaciones y la revisión de datos y estadística son decisiones mías. En cada `prompts.md` dejo los prompts principales, lo que tuve que corregir y lo que aprendí. El código es la parte reproducible, porque los prompts no dan siempre el mismo resultado.
+Construyo los gráficos con ayuda de IA y lo cuento abiertamente. La IA me acelera el código, pero la pregunta, la elección del gráfico, la historia, las anotaciones y la revisión de datos y estadística son decisiones mías.
 
 ## Reproducir un gráfico
 
