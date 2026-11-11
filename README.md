@@ -6,11 +6,8 @@ El objetivo es transformar conjuntos de datos en historias visuales, inspiradas 
 
 Cada visualización parte de una pregunta o un hallazgo y busca comunicar un mensaje claro mediante el diseño, la composición y anotaciones que guían la lectura.
 
-+-----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---+---+
-|                                                                                                                       |                                                                                                       |   |   |
-+=======================================================================================================================+=======================================================================================================+===+===+
-| [![Día 01 · Part-to-Whole](2026/01-part-to-whole/grafico.png){alt="Día 01 · Part-to-Whole"}](2026/01-part-to-whole/)\ | [![Día 02 · Pictogram](2026/02-pictogram/grafico.png){alt="Día 02 · Pictogram"}](2026/02-pictogram/)\ |   |   |
-+-----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---+---+
+<a href="2026/01-part-to-whole/"><img src="2026/01-part-to-whole/grafico.png" width="160"></a>
+<a href="2026/02-pictogram/"><img src="2026/02-pictogram/grafico.png" width="160"></a>
 
 ## Estructura
 
