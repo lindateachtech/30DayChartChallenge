@@ -22,3 +22,4 @@ nuevo_dia <- function(dia, tema, edicion = "2026") {
   message("Creada ", carpeta)
   invisible(carpeta)
 }
+
