@@ -1,39 +1,66 @@
 # 30DayChartChallenge
 
-Mis gráficos para el [#30DayChartChallenge](https://github.com/30DayChartChallenge), trato de representar gráficos editoriales hechos en R, pensados como los de una portada o un medio de comunicación, con un mensaje claro y anotaciones que guían la lectura.
+Mi participación en el [#30DayChartChallenge](https://github.com/30DayChartChallenge), un proyecto de visualización de datos desarrollado en **R con enfoque editorial**.
 
+El objetivo es transformar conjuntos de datos en historias visuales, inspiradas en el periodismo de datos y los gráficos de medios de comunicación.
+
+Cada visualización parte de una pregunta o un hallazgo y busca comunicar un mensaje claro mediante el diseño, la composición y anotaciones que guían la lectura.
+
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---+---+
+|                                                                                                                       |                                                                                                       |   |   |
++=======================================================================================================================+=======================================================================================================+===+===+
+| [![Día 01 · Part-to-Whole](2026/01-part-to-whole/grafico.png){alt="Día 01 · Part-to-Whole"}](2026/01-part-to-whole/)\ | [![Día 02 · Pictogram](2026/02-pictogram/grafico.png){alt="Día 02 · Pictogram"}](2026/02-pictogram/)\ |   |   |
++-----------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------+---+---+
 
 ## Estructura
 
-```
+``` text
 30DayChartChallenge/
-├── 2026/              temas de la edición 2026 asistidos con IA
-├── plantillas/dia/    plantilla que se copia para cada día nuevo
-└── R/                 funciones comunes
+├── 2026/              Gráficos de la edición 2026
+├── plantillas/dia/    Plantilla para nuevos gráficos
+└── R/                 Funciones y utilidades compartidas
 ```
 
-Cada día tiene su propia carpeta, por ejemplo `2026/01-part-to-whole/`, con:
+Cada día tiene su propia carpeta, por ejemplo, `2026/01-part-to-whole/`, que contiene:
 
-- un `README.md` que explica la pregunta, los datos, el gráfico y cómo leerlo, 
-- el `script-viz.R` para reproducirlo, 
-- la imagen final.
+- `README.md`: pregunta, fuentes, decisiones de diseño e interpretación del gráfico.
+- `script-viz.R`: código R utilizado para generar la visualización.
+- Imagen final de la visualización.
 
+## Proceso creativo y uso de IA
 
-## Cómo trabajo
+Las visualizaciones combinan análisis de datos, diseño editorial y programación en R, utilizando inteligencia artificial como apoyo al desarrollo técnico.
 
-Construyo los gráficos con ayuda de IA y lo cuento abiertamente. La IA me acelera el código, pero la pregunta, la elección del gráfico, la historia, las anotaciones y la revisión de datos y estadística son decisiones mías.
+**Mi proceso de trabajo incluye:**
+
+1.  **Exploración de datos:** selección del conjunto de datos, identificación de patrones y definición de la pregunta.
+2.  **Narrativa:** elección del mensaje principal y del enfoque editorial.
+3.  **Diseño:** definición de la representación gráfica, composición, paleta de colores, tipografía y anotaciones.
+4.  **Implementación:** desarrollo en R con asistencia de Claude para agilizar la programación y explorar soluciones técnicas.
+5.  **Revisión:** validación de datos, ajustes del código y refinamiento visual de la composición final.
+
+La conceptualización, las decisiones analíticas y la dirección creativa son propias. La IA interviene como asistente de programación dentro de un proceso iterativo que superviso y modifico directamente.
 
 ## Reproducir un gráfico
 
-Abre el proyecto de RStudio y ejecuta el `script.R` del día. Los paquetes necesarios aparecen al principio de cada script. Para empezar un día nuevo
+Los gráficos están desarrollados en R. Los paquetes necesarios se indican al principio de cada script.
 
-```r
+Para reproducir una visualización, abre el proyecto en RStudio y ejecuta el archivo `script-viz.R` correspondiente al día, siguiendo las instrucciones específicas de su carpeta.
+
+Para crear la estructura de un nuevo día, desde la raíz del proyecto:
+
+``` r
 source("R/nuevo_dia.R")
 nuevo_dia(1, "Part-to-Whole")
 ```
 
+## Datos y fuentes
 
-## Datos
+Trabajo con conjuntos de datos públicos, entre ellos:
 
-Datos públicos con fuentes citadas, las principales son [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday) y el [dataset de eventos de Wyscout](https://github.com/koenvo/wyscout-soccer-match-event-dataset), además de los conjuntos que propone el propio reto.
+- [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/)
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+- [Wyscout Soccer Match Event Dataset](https://github.com/koenvo/wyscout-soccer-match-event-dataset)
+- Conjuntos de datos propuestos por el propio #30DayChartChallenge.
 
+Cada visualización incluye sus fuentes y, cuando corresponde, las decisiones metodológicas y limitaciones relevantes para interpretar los resultados.
