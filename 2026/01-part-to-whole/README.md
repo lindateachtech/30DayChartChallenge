@@ -1,6 +1,7 @@
 # Día 01 · Part-to-Whole
 
-![Diagrama ternario del consumo de cerveza, licor y vino en Europa](grafico.png)
+<img src="grafico.png" alt="Diagrama ternario del consumo de cerveza, licor y vino en Europa" width="350"/>
+
 
 <br>
 
