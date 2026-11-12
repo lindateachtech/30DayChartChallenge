@@ -35,8 +35,6 @@ Ocupantes y capacidad de los 18 botes que se arriaron, con su hora de salida, se
 
 Esta visualización se desarrolló mediante un proceso iterativo de diseño editorial y programación asistida por IA.
 
-La conceptualización, selección de datos, narrativa y decisiones visuales son propias. Claude se utilizó como asistente de implementación en R, con revisión y modificaciones directas del código.
-
 [**Ver el proceso completo**](proceso.md)**.**
 
 ## Validaciones

@@ -26,10 +26,4 @@ Después ajusté directamente el código R: espaciado, etiquetas, anotaciones, l
 
 La IA facilitó el prototipado y la implementación técnica. La conceptualización, evaluación de alternativas y dirección editorial fueron propias.
 
-## 4. Aprendizajes
-
 <img src="grafico.png" alt="Versión editorial final del Titanic" width="350"/>
-
-La transformación implicó una decisión consciente: **priorizar la narrativa temporal frente a la comparación detallada entre botes**.
-
-El aprendizaje principal fue comprobar que la IA permite explorar soluciones visuales complejas con mayor agilidad, pero sus propuestas requieren validación estadística y criterio editorial.
