@@ -1,6 +1,7 @@
 # Día 02 · Pictogram
 
-![Pictograma de los botes salvavidas del Titanic](grafico.png)
+<img src="grafico.png" alt="Versión editorial final del Titanic" width="350"/>
+
 
 <br>
 
