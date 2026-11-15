@@ -1,13 +1,12 @@
 # 30DayChartChallenge
 
-Mi participación en el [#30DayChartChallenge](https://github.com/30DayChartChallenge), un proyecto de visualización de datos desarrollado en **R con enfoque editorial**.
+Mi participación en el [#30DayChartChallenge](https://github.com/30DayChartChallenge), un proyecto de visualización de datos desarrollado en **R**.
 
-El objetivo es transformar conjuntos de datos en historias visuales, inspiradas en el periodismo de datos y los gráficos de medios de comunicación.
+El objetivo es trabajar un tipo de gráfico cada día, de los más habituales a los más complejos, con conjuntos de datos sobre temas que todo el mundo reconoce, como el cine, el deporte o la historia.
 
-Cada visualización parte de una pregunta o un hallazgo y busca comunicar un mensaje claro mediante el diseño, la composición y anotaciones que guían la lectura.
+Cada visualización busca aprovechar lo que ese tipo de gráfico sabe mostrar mejor, con datos comprobados, una paleta apta para daltonismo, tipografía cuidada y un toque propio que la haga memorable.
 
-<a href="2026/01-part-to-whole/"><img src="2026/01-part-to-whole/grafico.png" width="160"></a>
-<a href="2026/02-pictogram/"><img src="2026/02-pictogram/grafico.png" width="160"></a>
+<a href="2026/01-part-to-whole/"><img src="2026/01-part-to-whole/grafico.png" width="160"/></a> <a href="2026/02-pictogram/"><img src="2026/02-pictogram/grafico.png" width="160"/></a> <a href="2026/03-mosaic/"><img src="2026/03-mosaic/grafico.png" width="160"/></a>
 
 ## Estructura
 
@@ -26,12 +25,12 @@ Cada día tiene su propia carpeta, por ejemplo, `2026/01-part-to-whole/`, que co
 
 ## Proceso creativo y uso de IA
 
-Las visualizaciones combinan análisis de datos, diseño editorial y programación en R, utilizando inteligencia artificial como apoyo al desarrollo técnico.
+Las visualizaciones combinan análisis de datos, diseño y programación en R, utilizando inteligencia artificial como apoyo al desarrollo técnico.
 
 **Mi proceso de trabajo incluye:**
 
 1.  **Exploración de datos:** selección del conjunto de datos, identificación de patrones y definición de la pregunta.
-2.  **Narrativa:** elección del mensaje principal y del enfoque editorial.
+2.  **Enfoque:** elección del tipo de gráfico, de qué mostrar y de qué dejar fuera.
 3.  **Diseño:** definición de la representación gráfica, composición, paleta de colores, tipografía y anotaciones.
 4.  **Implementación:** desarrollo en R con asistencia de Claude para agilizar la programación y explorar soluciones técnicas.
 5.  **Revisión:** validación de datos, ajustes del código y refinamiento visual de la composición final.
