@@ -23,7 +23,7 @@ Cada día tiene su propia carpeta, por ejemplo, `2026/01-part-to-whole/`, que co
 - `script-viz.R`: código R utilizado para generar la visualización.
 - Imagen final de la visualización.
 
-## Proceso creativo y uso de IA
+## Proceso creativo
 
 Las visualizaciones combinan análisis de datos, diseño y programación en R, utilizando inteligencia artificial como apoyo al desarrollo técnico.
 
