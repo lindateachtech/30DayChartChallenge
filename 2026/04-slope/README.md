@@ -30,11 +30,9 @@ Steam cuenta a todos los jugadores que usan su cliente, estén donde estén, per
 
 ## Lo que aprendí
 
-Elegir el periodo de comparación cambia la historia. Probé febrero, enero y diciembre como punto de partida y cada uno daba resultados distintos por estrenos, rebajas o noticias, así que revisar el calendario de cada juego fue tan importante como el gráfico.
-
-Al principio usé los 15 juegos más jugados de Steam y el centro del gráfico era un nudo de líneas imposible de leer. Con diez juegos y una temática concreta el gráfico se entiende de un vistazo.
-
-También aprendí a colocar las etiquetas a mano repartiéndolas en escala logarítmica, porque ggrepel no permite poner imágenes en las posiciones que calcula, y a incluir imágenes en un gráfico de ggplot2 con `geom_richtext()` de ggtext.
+- Elegir el periodo de comparación cambia la historia. Probé febrero, enero y diciembre como punto de partida y cada uno daba resultados distintos por estrenos, rebajas o noticias, así que revisar el calendario de cada juego fue tan importante como el gráfico.
+- Al principio usé los 15 juegos más jugados de Steam y el centro del gráfico era un nudo de líneas imposible de leer. Con diez juegos y una temática concreta el gráfico se entiende de un vistazo.
+- También aprendí a colocar las etiquetas a mano repartiéndolas en escala logarítmica, porque ggrepel no permite poner imágenes en las posiciones que calcula, y a incluir imágenes en un gráfico de ggplot2 con `geom_richtext()` de ggtext.
 
 ## Difusión
 
