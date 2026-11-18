@@ -1,4 +1,4 @@
-# Día 03 · Mosaic
+# Día 03 - Mosaic
 
 <img src="grafico.png" alt="Mosaico del test de Bechdel por décadas, de 1950 a 2019" width="350"/>
 

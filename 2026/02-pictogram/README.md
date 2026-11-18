@@ -1,4 +1,4 @@
-# Día 02 · Pictogram
+# Día 02 - Pictogram
 
 <img src="grafico.png" alt="Versión editorial final del Titanic" width="350"/>
 

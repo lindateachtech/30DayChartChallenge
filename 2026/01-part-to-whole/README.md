@@ -1,4 +1,4 @@
-# Día 01 · Part-to-Whole
+# Día 01 - Part-to-Whole
 
 <img src="grafico.png" alt="Diagrama ternario del consumo de cerveza, licor y vino en Europa" width="350"/>
 

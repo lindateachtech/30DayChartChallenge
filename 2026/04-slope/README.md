@@ -1,4 +1,4 @@
-# Día 04 · Slope
+# Día 04 - Slope
 
 <img src="grafico.png" alt="El fin del mundo durante el confinamiento por la covid-19" width="350"/>
 
