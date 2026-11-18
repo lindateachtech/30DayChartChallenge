@@ -47,7 +47,7 @@ Para crear la estructura de un nuevo día, desde la raíz del proyecto:
 
 ``` r
 source("R/nuevo_dia.R")
-nuevo_dia(1, "Part-to-Whole")
+nuevo_dia(1, "part-to-whole")
 ```
 
 ## Datos y fuentes
