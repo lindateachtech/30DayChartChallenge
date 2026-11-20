@@ -6,7 +6,8 @@ El objetivo es trabajar un tipo de gráfico cada día, de los más habituales a 
 
 Cada visualización busca aprovechar lo que ese tipo de gráfico sabe mostrar mejor, con datos comprobados, una paleta apta para daltonismo, tipografía cuidada y un toque propio que la haga memorable.
 
-<a href="2026/01-part-to-whole/"><img src="2026/01-part-to-whole/miniatura.png" width="130"/></a> <a href="2026/02-pictogram/"><img src="2026/02-pictogram/miniatura.png" width="130"/></a> <a href="2026/03-mosaic/"><img src="2026/03-mosaic/miniatura.png" width="130"/></a> <a href="2026/04-slope/"><img src="2026/04-slope/miniatura.png" width="130"/></a> <a href="2026/04-slope/"><img src="2026/05-experimental/miniatura.png" width="130"/></a>
+<a href="2026/01-part-to-whole/"><img src="2026/01-part-to-whole/miniatura.png" width="130"/></a> <a href="2026/02-pictogram/"><img src="2026/02-pictogram/miniatura.png" width="130"/></a> <a href="2026/03-mosaic/"><img src="2026/03-mosaic/miniatura.png" width="130"/></a> <a href="2026/04-slope/"><img src="2026/04-slope/miniatura.png" width="130"/></a> <a href="2026/05-experimental/"><img src="2026/05-experimental/miniatura.png" width="130"/></a> <a href="2026/06-rsf-data-day/"><img src="2026/06-rsf-data-day/miniatura.png" width="130"/></a>
+
 
 ## Estructura
 
