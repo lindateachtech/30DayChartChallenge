@@ -452,7 +452,7 @@ grafico <- ggplot() +
 grafico
 
 # Guardar -----------------------------------------------------------------
-# 1080 x 1350 px, formato vertical 4:5 que funciona bien en LinkedIn
+# 1080 x 1350 px, formato vertical 4:5
 ggsave(
   "2026/02-pictogram/grafico.png",
   grafico,
