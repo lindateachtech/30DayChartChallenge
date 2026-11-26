@@ -8,7 +8,8 @@ Cada visualización busca aprovechar lo que ese tipo de gráfico sabe mostrar me
 
 <a href="2026/01-part-to-whole/"><img src="2026/01-part-to-whole/grafico.png" width="130"/></a> <a href="2026/02-pictogram/"><img src="2026/02-pictogram/grafico.png" width="130"/></a> <a href="2026/03-mosaic/"><img src="2026/03-mosaic/grafico.png" width="130"/></a> <a href="2026/04-slope/"><img src="2026/04-slope/grafico.png" width="130"/></a> <a href="2026/05-experimental/"><img src="2026/05-experimental/grafico.png" width="130"/></a> <a href="2026/06-rsf-data-day/"><img src="2026/06-rsf-data-day/grafico.png" width="130"/></a> 
 
-<a href="2026/07-multiscale/"><img src="2026/07-multiscale/grafico.png" width="130"/></a> <a href="2026/08-circular/"><img src="2026/08-circular/grafico.png" width="130"/></a>
+<a href="2026/07-multiscale/"><img src="2026/07-multiscale/grafico.png" width="130"/></a> <a href="2026/08-circular/"><img src="2026/08-circular/grafico.png" width="130"/></a> <a href="2026/09-wealth/"><img src="2026/09-wealth/grafico.png" width="130"/></a>
+
 
 ## Estructura
 
