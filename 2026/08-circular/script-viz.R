@@ -13,14 +13,14 @@ library(rcartocolor)
 carpeta <- file.path("2026", "08-circular")
 
 # Colores y tipografía ----------------------------------------------------
-fondo <- "#1E2124"
+fondo <- "#33383D"
 texto <- "#E6E8EA"
 suave <- "#8D949B"
 rejilla <- "#3A3F44"
 
 # Del gris del fondo a los verdes de CARTO Emrld (rcartocolor), secuencial y apta
 # para daltonismo. Se quitan sus dos tonos más azules para que todo sea gris o verde.
-verdes <- c("#2C3136", rev(rcartocolor::carto_pal(7, "Emrld"))[3:7])
+verdes <- c("#444B51", rev(rcartocolor::carto_pal(7, "Emrld"))[3:7])
 
 systemfonts::clear_registry()
 systemfonts::register_font(
