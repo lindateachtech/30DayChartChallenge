@@ -1,6 +1,6 @@
 # Día 10 - Pop Culture
 
-<img src="grafico.png" alt="Dendrograma horizontal de 16 Pokémon favoritos de la primera generación con su imagen junto al nombre, agrupados en cinco familias por sus estadísticas base sobre fondo azul noche" width="350"/> <br>
+<img src="grafico.png" alt="Dendrograma horizontal de 16 Pokémon favoritos de la primera generación" width="350"/> <br>
 
 ## Pregunta
 
